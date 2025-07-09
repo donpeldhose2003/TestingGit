@@ -4,12 +4,28 @@ public class Demo {
     }
 
 
+    void don(){
+System.out.println("don here updated 1111111");
+    }
+
+    void jovin()
+    {
+        System.out.println("jovin");
+}
+
+
     void jeswin(){
 System.out.println("i am jeswin");
 
     }
+
+
+    }
+
+
     void don(){
 System.out.println("don here");
 
     }
 }
+
